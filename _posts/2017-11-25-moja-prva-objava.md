@@ -10,4 +10,4 @@ Ta vikend sem se udeležil Science Hack Day
 
 Ko bo bo kaj.
 
-![](/https://github.com/RokVenturini/RokVenturini.github.io/blob/master/IMG_2517.JPG)
+![](https://github.com/RokVenturini/RokVenturini.github.io/blob/master/IMG_2517.JPG)
