@@ -3,6 +3,6 @@ layout: default
 title: Ena podstran
 ---
 
-# nOr naslov
+## nOr naslov
 Bla bla bla
 
